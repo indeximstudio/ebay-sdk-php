@@ -1,5 +1,34 @@
 # CHANGELOG
 
+## 18.0.0 - 2018-06-28
+
+### Features
+
+* Support Compliance API version v1.1.0
+
+### Fixes
+
+* Ensure type attribute exist for ProductID.
+
+## 17.0.0 - 2018-06-12
+
+### Features
+
+* Support Catalog API version v1_beta.2.0.
+
+## 16.0.0 - 2018-05-12
+
+### Features
+
+* Support Trading API version 1057.
+* Add WatchCountDecreaseSort ENUM value for Finding API.
+
+## 15.0.0 - 2018-03-05
+
+### Fixes
+
+- Use multipart/form-data when uploading pictures via the Trading UploadSiteHostedPictures operation.
+
 ## 14.0.0 - 2017-12-15
 
 ### Features
